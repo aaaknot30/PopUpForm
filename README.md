@@ -1,0 +1,1 @@
+This was an assignment for a scrimba course.  Focus was on setTimeout function, changing an elemnt's style, using FormData object, and accessing an elemnt's classList.
